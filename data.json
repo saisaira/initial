@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"download.jpg",
+    "name":"sairam",
+    "email":"sairam.d@apssdc.in",
+    "mobile":"9999999999"
+  },
+  "education":[
+    {
+      "course":"B.tech(Computer science and engineering)",
+      "college":[
+        "g pullaiah college of engineering",
+        "2015-2019",
+        "70"
+      ]
+    },
+    {
+      "course":"Intermediate(MPC)",
+      "college":[
+        "sri chaitanya narayana college",
+        "2013-2015",
+        "70"
+      ]
+    },
+    {
+      "course":"SSC",
+      "college":[
+        "Z.p.h school",
+        "2012-2013",
+        "70"
+      ]
+    }
+  ]
+}
