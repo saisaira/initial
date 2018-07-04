@@ -27,18 +27,7 @@
   padding:5px;
   background-color: #666;
 }
-#name{
-  color: #000;
-}
-h1{
-  color: #fff;
-}
-h1:hover{
-  color:#000;
-}
-h2{
-  color:#fff;
-}
+
 
 @media only screen and (max-width:480px)
 {
